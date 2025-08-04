@@ -172,3 +172,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Tambahan latihan branch
+print("Halo dari branch coba-branch!")
